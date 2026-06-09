@@ -1,0 +1,110 @@
+
+> meda-app@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.29
+  - Local:        http://localhost:3001
+
+ ✓ Starting...
+ ✓ Ready in 3.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 27.9s (525 modules)
+ ✓ Compiled in 330ms (245 modules)
+ GET / 307 in 28420ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 2.9s (501 modules)
+ GET /login 200 in 3027ms
+ ✓ Compiled /favicon.ico in 174ms (300 modules)
+ GET /favicon.ico 200 in 225ms
+ ✓ Compiled /_not-found in 252ms (497 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 373ms
+ GET /_next/static/css/app/layout.css?v=1780817698878 404 in 406ms
+ ✓ Compiled /verify in 226ms (503 modules)
+ ○ Compiling /player/home ...
+ GET /player/home 500 in 23ms
+ ✓ Compiled /_error in 431ms (757 modules)
+ ✓ Compiled /player/home in 235ms (794 modules)
+ GET /player/home 200 in 504ms
+ GET /_next/static/webpack/61d8bea1def7851f.webpack.hot-update.json 404 in 559ms
+ GET /player/home 200 in 94ms
+ ✓ Compiled /favicon.ico in 224ms (372 modules)
+ GET /favicon.ico 200 in 289ms
+ GET /player/home 200 in 118ms
+ GET /favicon.ico 200 in 9ms
+ GET /player/home 200 in 49ms
+ GET /favicon.ico 200 in 15ms
+ ○ Compiling /player/field/[id] ...
+ ✓ Compiled /player/field/[id] in 665ms (811 modules)
+ GET /player/home 200 in 107ms
+ ✓ Compiled /favicon.ico in 148ms (375 modules)
+ GET /favicon.ico 200 in 198ms
+ ✓ Compiled /player/bookings in 297ms (849 modules)
+ ✓ Compiled /_not-found in 261ms (806 modules)
+ GET /player/home 200 in 117ms
+ GET /player/home 200 in 31ms
+ ✓ Compiled /favicon.ico in 173ms (380 modules)
+ GET /favicon.ico 200 in 242ms
+ ✓ Compiled in 368ms (470 modules)
+ ✓ Compiled /_not-found in 330ms (806 modules)
+ GET /player/wallet 404 in 70ms
+ GET /player/home 200 in 64ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 80ms
+ ○ Compiling /player/field/[id]/confirm ...
+ ✓ Compiled /player/field/[id]/confirm in 514ms (826 modules)
+ ✓ Compiled /player/success in 367ms (828 modules)
+ ✓ Compiled in 436ms (818 modules)
+ ✓ Compiled in 346ms (818 modules)
+ ✓ Compiled /_not-found in 109ms (807 modules)
+ GET /player/success 200 in 70ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 13ms
+ ✓ Compiled /_not-found in 389ms (807 modules)
+ GET /_next/static/webpack/0798cdeee5e9adbb.webpack.hot-update.json 404 in 328ms
+ GET /player/success 200 in 23ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 13ms
+ ✓ Compiled /favicon.ico in 195ms (377 modules)
+ GET /favicon.ico 200 in 254ms
+ ✓ Compiled in 257ms (853 modules)
+ GET /player/success 404 in 97ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 14ms
+ GET /favicon.ico 404 in 16ms
+ GET /player/field/f3/confirm 404 in 54ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 19ms
+ GET /player/field/f3 404 in 49ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 14ms
+ GET /player/home 404 in 39ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 17ms
+ GET /player/bookings 404 in 30ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 13ms
+ ✓ Compiled /verify in 325ms (384 modules)
+ GET /verify?phone=913778463 200 in 450ms
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 21ms
+ ✓ Compiled in 262ms (860 modules)
+ ✓ Compiled in 209ms (821 modules)
+ ✓ Compiled in 107ms (474 modules)
+ ✓ Compiled in 82ms (474 modules)
+ ✓ Compiled in 121ms (474 modules)
+ GET /player/home 200 in 88ms
+ ✓ Compiled /_not-found in 172ms (810 modules)
+ ✓ Compiled /login in 82ms (352 modules)
+ GET /login 200 in 173ms
+ GET /player/home 500 in 447ms
+ GET /player/home 500 in 218ms
+ GET /verify?phone=911234567 500 in 451ms
+ GET /verify?phone=911234567 500 in 219ms
+ GET /player/home 500 in 448ms
+ GET /player/home 500 in 218ms
+ GET /player/home 500 in 438ms
+ GET /player/home 500 in 217ms
+ GET /login 200 in 82ms
+ GET /player/home 500 in 446ms
+ GET /player/home 500 in 217ms
+ GET /player/home 500 in 441ms
+ GET /player/home 500 in 217ms
+ ✓ Compiled / in 226ms (355 modules)
+ GET / 307 in 363ms
+ ✓ Compiled /login in 131ms (359 modules)
+ GET /login 200 in 253ms
+ GET /player/home 500 in 451ms
+ GET /player/home 500 in 218ms
+ GET /player/home 500 in 447ms
+ GET /player/home 500 in 217ms
